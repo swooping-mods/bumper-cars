@@ -1,5 +1,7 @@
 # Bumper Cars
 
+<img src="media/icon.png" alt="Bumper Cars icon" width="128" height="128">
+
 Alt+B equips an arcade bumper kit on the current car.
 
 ## Install
