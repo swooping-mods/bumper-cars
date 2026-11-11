@@ -1,0 +1,12 @@
+{
+  "id": "bumper-cars",
+  "kind": "native",
+  "version": "0.1.0",
+  "display_name": "Bumper Cars",
+  "gameplay": true,
+  "feature_dependencies": [],
+  "play_help": [
+    "Alt+B equips/removes bumper bars and arcade contact impulses.",
+    "Implementation build only; game testing is deferred."
+  ]
+}
